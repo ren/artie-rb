@@ -1,0 +1,15 @@
+{
+  "base_delivery_path": "~/Desktop/tester/tester",
+  "ios_icons": {
+    "Icon-Small":        "Images.xcassets/AppIcon.appiconset",
+    "Icon-Small@2x":     "Images.xcassets/AppIcon.appiconset",
+    "Icon-Small-40":     "Images.xcassets/AppIcon.appiconset",
+    "Icon-Small-40@2x":  "Images.xcassets/AppIcon.appiconset",
+    "Icon-60":           "Images.xcassets/AppIcon.appiconset",
+    "Icon-60@2x":        "Images.xcassets/AppIcon.appiconset",
+    "Icon-76":           "Images.xcassets/AppIcon.appiconset",
+    "Icon-76@2x":        "Images.xcassets/AppIcon.appiconset",
+    "iTunesArtwork":     "Images.xcassets/AppIcon.appiconset",
+    "iTunesArtwork@2x":  "Images.xcassets/AppIcon.appiconset"
+  }
+}
